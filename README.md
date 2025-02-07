@@ -42,29 +42,17 @@ The dataset includes the following fields:
 
 ---
 
-## 🎯 Navigation
-The report contains multiple pages:
-- **Home** → Overview of key HR insights  
-- **Action** → Interactive filters for deeper analysis  
-- **Details** → Employee-level data visualization  
-
-Use the **buttons at the top** to switch between pages easily.
-
----
-
 ## 📊 Visualizations Used
 - **Cards**: KPIs for Employee Count, Average Age, and Salary  
 - **Bar Chart**: Employee count by department  
 - **Pie Chart**: Gender distribution & Business Travel  
 - **Box Plot**: Salary distribution by job role  
-- **Slicers**: Age Group, Department, Gender, Business Travel  
-- **Buttons**: Page navigation (Home, Action, Details)  
+- **Slicers**: Age Group, Department, Gender, Business Travel   
 
 ---
 
 ## 🚀 Final Enhancements
-✔ **Added a theme for consistent styling**  
-✔ **Created a summary page with Top 5 highest salaries**  
+✔ **Added a theme for consistent styling**   
 ✔ **Enabled tooltips for additional insights on visuals**  
 ✔ **Implemented bookmarks for quick filtered views**  
 
