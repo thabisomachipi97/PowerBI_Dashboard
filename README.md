@@ -34,7 +34,7 @@ The dataset includes the following fields:
 ## 🛠 How to Use the Dashboard
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/hr-dashboard-powerbi.git
+   git clone https://github.com/thabisomachipi97/PowerBI_Dashboard/blob/main/Machipi_dashboard.pbix
    ```
 2. Open **Power BI Desktop**.
 3. Click **File > Open** and select `HR_Dashboard.pbix`.
