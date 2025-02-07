@@ -4,6 +4,9 @@
 
 This Power BI dashboard provides insights into employee demographics, salary trends, and business travel. It includes interactive visuals, slicers, and navigation for easy data exploration.
 
+
+![image](https://github.com/user-attachments/assets/859bc4bd-ed1c-4ae8-b4e9-aefd965cf5f7)
+
 ---
 
 ## 📌 Features
